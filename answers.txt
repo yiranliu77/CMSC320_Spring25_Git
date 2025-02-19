@@ -1,0 +1,6 @@
+Q1: Why might we consider using Git?
+
+Answer: Multiple developers can work on the same project without overwriting each other's work. Git merges changes efficiently. Git can help
+developers to do backups and code recoveries.Git is free, open-source, and widely adopted in the industry, making it a standard for developers.
+It allows code reviews, pull requests, and discussions before merging changes. 
+
