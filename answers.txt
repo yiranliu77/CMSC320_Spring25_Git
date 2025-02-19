@@ -4,3 +4,6 @@ Answer: Multiple developers can work on the same project without overwriting eac
 developers to do backups and code recoveries.Git is free, open-source, and widely adopted in the industry, making it a standard for developers.
 It allows code reviews, pull requests, and discussions before merging changes. 
 
+Q2: What field could data science be applied to? Give an Example.
+
+Answer: It can be used in health care areas to anticipate disease outbreaks.
